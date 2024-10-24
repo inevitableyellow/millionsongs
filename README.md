@@ -1,5 +1,3 @@
 # millionsongs 
 
-# This is a line from RStudio!
-
-I will be doing a project on the million songs dataset from Spotify!
+I will be doing a project on the Million Songs Dataset! This page will be updated periodically as I progress!

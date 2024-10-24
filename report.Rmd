@@ -1,0 +1,16 @@
+---
+title: "Million Songs"
+author: "Paris Heard"
+date: "'r Sys.Date()"
+bibliography: references.bib
+link-citations: true
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+This report provides analysis on the correlation between different variables in the Million Songs Dataset [@bertin-mahieux2011]. Computations were enacted on the 10,000 song snippet dataset due to hardware limitations.
