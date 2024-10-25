@@ -13,4 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-This report provides analysis on the correlation between different variables from the data found in **Music Dataset: Lyrics and Metadata from 1950 to 2019.** [@fontelles2020; @fontelles2020a]. Computations were enacted on the 10,000 song snippet dataset due to hardware limitations.
+This report provides analysis on the correlation between different variables from the data found in **Music Dataset: Lyrics and Metadata from 1950 to 2019.** [@fontelles2020; @fontelles2020a].
